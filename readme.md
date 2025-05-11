@@ -1,12 +1,8 @@
-Below is an updated `README.md` file for the A.R.Z Hospital Management System, incorporating the presence of `discharge.txt` as identified in the code. The `README.md` is professional, covers the use of Object-Oriented Programming (OOP) and other technical details, and includes cloning instructions, as requested. The content reflects the functionality of `discharge.txt` for storing discharged patient data and aligns with the provided code structure.
-
----
-
-# A.R.Z Hospital Management System
+# Hospital Management System
 
 ## Project Overview
 
-The A.R.Z Hospital Management System is a C++-based console application designed to manage hospital operations efficiently. It handles data for patients (indoor and outdoor), doctors, receptionists, and admins, with features like patient admission, discharge, medicine prescription, and comprehensive data management. The system leverages Object-Oriented Programming (OOP) principles and template programming for modularity, scalability, and maintainability.
+The Hospital Management System is a C++-based console application designed to manage hospital operations efficiently. It handles data for patients (indoor and outdoor), doctors, receptionists, and admins, with features like patient admission, discharge, medicine prescription, and comprehensive data management. The system leverages Object-Oriented Programming (OOP) principles and template programming for modularity, scalability, and maintainability.
 
 ## Features
 
